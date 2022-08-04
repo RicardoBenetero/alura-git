@@ -71,7 +71,9 @@ git checkout -b lista
 cria o branch e já troca para ele
 
 ==================================================
+git merge titulo
 
+traz as alterações do branch titulo para a branch master (observação: necessário estar na branch master)
 
 
 
