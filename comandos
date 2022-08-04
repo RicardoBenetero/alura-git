@@ -47,6 +47,26 @@ mostra todos os commits
 
 ===========================================
 
+git branch titulo
+
+cria novo branch
+
+======================================
+
+git branch
+
+
+mostra todos branchs
+
+==================================
+
+git checkout titulo
+
+muda para outro branch
+
+======================================
+
+
 
 
 
