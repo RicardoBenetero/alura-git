@@ -1,0 +1,20 @@
+para incluir o arquivo no controle do git:
+
+git add comandos
+
+git add* (inclui todos os arquivos que não estão sobre controle ainda)
+
+
+para salva o arquivo (commit)
+
+
+git commit -m "arquivo adicionado"
+
+
+para incluir no repositório
+
+
+git push local master
+
+
+
