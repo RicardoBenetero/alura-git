@@ -38,9 +38,16 @@ para enviar o codigo do repo local para o github
 
 criei um token para informar no lugar da senha pois não suporta mais autenticação com senha o github.
 
-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
 
 ===============================================
+
+git log 
+
+mostra todos os commits
+
+===========================================
+
+
 
 
 
