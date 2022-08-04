@@ -32,9 +32,15 @@ para adicionar o repositorio do github
 
 ==========================================
 
-git push local origin
+git push origin master
 
-para enviar o codigo do repo local para o github (origin)
+para enviar o codigo do repo local para o github
+
+criei um token para informar no lugar da senha pois não suporta mais autenticação com senha o github.
+
+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
+
+===============================================
 
 
 
