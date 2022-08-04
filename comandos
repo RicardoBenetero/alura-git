@@ -17,4 +17,24 @@ para incluir no repositório
 git push local master
 
 
+============
+
+git status
+
+verifica arquivos a serem adicionados, e arquivos que já foram adicionados porém não comitados
+
+
+========
+
+git remote add origin https://github.com/RicardoBenetero/alura-git.git
+
+para adicionar o repositorio do github
+
+==========================================
+
+git push local origin
+
+para enviar o codigo do repo local para o github (origin)
+
+
 
