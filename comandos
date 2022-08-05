@@ -17,7 +17,7 @@ para incluir no repositório
 git push local master
 
 
-============**********
+============**********+++
 
 git status
 
@@ -69,6 +69,25 @@ muda para outro branch
 git checkout -b lista
 
 cria o branch e já troca para ele
+
+==================================================
+git merge titulo
+
+traz as alterações do branch titulo para a branch master (observação: necessário estar na branch master)
+
+
+===============================================
+
+git log --graph
+
+mostra as linhas especificas de desenvolvimento
+
+================================================
+
+git pull origin master
+
+baixar para o repositorio local do repositorio remoto github
+
 
 ==================================================
 
