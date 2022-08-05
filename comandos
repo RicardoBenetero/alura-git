@@ -1,0 +1,99 @@
+para incluir o arquivo no controle do git:
+
+git add comandos
+
+git add* (inclui todos os arquivos que não estão sobre controle ainda)
+
+
+para salva o arquivo (commit)
+
+
+git commit -m "arquivo adicionado"
+
+
+para incluir no repositório
+
+
+git push local master
+
+
+============**********+++
+
+git status
+
+verifica arquivos a serem adicionados, e arquivos que já foram adicionados porém não comitados
+
+
+========
+
+git remote add origin https://github.com/RicardoBenetero/alura-git.git
+
+para adicionar o repositorio do github
+
+==========================================
+
+git push origin master
+
+para enviar o codigo do repo local para o github
+
+criei um token para informar no lugar da senha pois não suporta mais autenticação com senha o github.
+
+
+===============================================
+
+git log 
+
+mostra todos os commits
+
+===========================================
+
+git branch titulo
+
+cria novo branch
+
+======================================
+
+git branch
+
+
+mostra todos branchs
+
+==================================
+
+git checkout titulo
+
+muda para outro branch
+
+======================================
+
+git checkout -b lista
+
+cria o branch e já troca para ele
+
+==================================================
+git merge titulo
+
+traz as alterações do branch titulo para a branch master (observação: necessário estar na branch master)
+
+
+===============================================
+
+git log --graph
+
+mostra as linhas especificas de desenvolvimento
+
+================================================
+
+git pull origin master
+
+baixar para o repositorio local do repositorio remoto github
+
+
+==================================================
+
+
+
+
+
+
+
