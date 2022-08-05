@@ -76,6 +76,13 @@ git merge titulo
 traz as alterações do branch titulo para a branch master (observação: necessário estar na branch master)
 
 
+===============================================
+
+git log --graph
+
+mostra as linhas especificas de desenvolvimento
+
+================================================
 
 
 
