@@ -170,4 +170,24 @@ mostra os dois ultimos commits
 
 ===========================================================================
 
+git tag -a v0.1.0 -m "lançando versão beta"
+
+
+gera um ponto no marca, uma tag por exemplo que marca a entrega de uma versão
+
+===================================================================
+
+git tag
+
+lista todas as tags criadas
+
+====================================================================
+
+git remote -v
+
+mostra os repositorios remotos
+
+=======================================================================
+
+
 
