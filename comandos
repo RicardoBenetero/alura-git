@@ -91,6 +91,12 @@ baixar para o repositorio local do repositorio remoto github
 
 ==================================================*
 
+git checkout -- index.html
+
+defaz alteração no arquivo (ainda não commitado)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++=
+
 
 
 
