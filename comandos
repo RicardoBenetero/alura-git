@@ -119,8 +119,38 @@ git revert efa9d3d1e464980424aa9aa57b08f4e1d76e14c9
 
 ==============================================================
 
+git stash 
+
+salva alterações em local temporário para continuar trabalhando depois (não entra em commits , logs)
 
 
 
+===================================================================
+
+git stash list
+
+mostra tudo que está no local temporário
+
+
+=======================================================================
+
+git stash pop
+
+
+traz as alterações do stash e exclui a alteração da lista de stash
+
+=======================================================================
+git log --oneline
+
+log dos commits em uma linha
+
+========================================================================
+git checkout 1e47847
+
+
+vai até um commit em especifico para visualizar o código no momento deste commit, todo commit feito neste momento é desprezado
+quando voltar para master, para ser considerado esses commits é necessário criar um branch novo.
+
+========================================================================
 
 
