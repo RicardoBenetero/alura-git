@@ -189,5 +189,17 @@ mostra os repositorios remotos
 
 =======================================================================
 
+Vocês devem ter notado que no curso as branches foram iniciadas na master e agora o padrão do GitHub é a main. Mas por que isso acontece?
 
+Vamos explicar: o curso foi criado em 2019 e no ano de 2020 o GitHub anunciou o seguinte:
+
+“Em 1º de outubro de 2020, qualquer novo repositório que você criar usará o main como o branch padrão, em vez do master”
+
+Porém, a nomenclatura não interfere no aprendizado ao longo do curso, é importante destacar apenas para evitar confusões. E caso você esteja na branch master querendo mudar para main, pode rodar esses comandos no terminal
+
+
+git branch -m master main
+git push -u origin main
+
+==========================================================================
 
