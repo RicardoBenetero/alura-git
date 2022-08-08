@@ -153,4 +153,17 @@ quando voltar para master, para ser considerado esses commits é necessário cri
 
 ========================================================================
 
+git diff 6589078..9e2c410 
+
+mostra o que foi alterado de um commit para outro
+
+
+=======================================================================
+git diff
+
+mostra o que foi alterado antes de fazer o add
+
+========================================================================
+
+
 
