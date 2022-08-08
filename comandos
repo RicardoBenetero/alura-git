@@ -93,10 +93,31 @@ baixar para o repositorio local do repositorio remoto github
 
 git checkout -- index.html
 
-defaz alteração no arquivo (ainda não commitado)
+defaz alteração no arquivo (ainda adicionado com add)
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++=
 
+git reset HEAD -- index.html
+
+defaz alteração no arquivo (quando já feito o add)
+
+
+em seguida para desfazer alteração faz o git checkout -- index.html
+
+================================================================
+
+desfazer quando já fez o commit
+
+git log
+
+copia o hash
+
+e
+
+git revert efa9d3d1e464980424aa9aa57b08f4e1d76e14c9
+
+
+==============================================================
 
 
 
