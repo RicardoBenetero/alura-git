@@ -188,6 +188,20 @@ git remote -v
 mostra os repositorios remotos
 
 =======================================================================
+Definir um endereço de e-mail no Git
 
+git config --local user.email "rcarvalho.007@gmail.com"
+
+git config  user.email
+
+
+Defina um nome de usuário do Git:
+
+git config --local user.name "Ricardo Benetero"
+
+
+git config user.name
+
+=======================================================
 
 
