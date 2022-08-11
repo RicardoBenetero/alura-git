@@ -204,4 +204,8 @@ git config user.name
 
 =======================================================
 
+git remote add gitLab https://gitlab.com/rcarvalho.007/bytebank.git  (aponta o repositorio remoto)
 
+git add --all (adiciona todos os arquivos)
+
+============================================================
